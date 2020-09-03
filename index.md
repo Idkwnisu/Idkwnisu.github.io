@@ -62,3 +62,6 @@ VR art project for cardboard, made using Unity
 <h4> <a href="https://github.com/Idkwnisu/VRArtProject">VR Art project</a></h4>
 VR art project for cardboard, made using Unity
 
+<br><br>
+<h2> Links </h2>
+<a href="https://mindtricks.itch.io"><img src="https://static.itch.io/images/itchio-textless-black.svg" style="width:82px; height:86px" title="Itch" alt="Itch Link"></a>
