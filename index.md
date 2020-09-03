@@ -66,5 +66,6 @@ VR art project for cardboard, made using Unity
 <h2> Links </h2>
 <a href="https://mindtricks.itch.io"><img src="https://static.itch.io/images/itchio-textless-black.svg" style="width:64px; height:64px" title="Itch" alt="Itch Link"></a>
 <a href="https://www.linkedin.com/in/stefanopalma-/"><img src="./Logos/LI-In-Bug.png" style="width:64px; height:64px" title="LinkedIn" alt="LinkedIn Link"></a>
+<a href="https://twitter.com/idkwnisu"><img src="./Logos/Twitter_Social_Icon_Rounded_Square_Color.png" style="width:64px; height:64px" title="Twitter" alt="Twitter Link"></a>
 <a href="https://instagram.com/idkwnisu_"><img src="./Logos/glyph-logo_May2016.png" style="width:64px; height:64px" title="IG" alt="Instagram Link"></a>
 
