@@ -36,7 +36,7 @@ Android augmented reality game, about helping a little elf village with various 
 Design for a level of an adventure game set in the Doctor Who universe
 
 <h4> <a href="https://github.com/Idkwnisu/ElfVillageAR">RGTP</a></h4>
-<img src="./Screenshots/RGTP.png" style="width:192px; height:192px" title="RGTP" alt="Screenshot of marching cubes">
+<img src="./Screenshots/RTGP.png" style="width:192px; height:192px" title="RGTP" alt="Screenshot of marching cubes">
 Collection of OpenGL code and shaders. It contains: 
 <ul>
   <li> Ray Tracing in glsl</li>
