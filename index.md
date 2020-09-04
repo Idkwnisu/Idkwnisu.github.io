@@ -35,7 +35,7 @@ Android augmented reality game, about helping a little elf village with various 
 <h4> <a href="https://github.com/obiciunict/GLD">GLD</a></h4>
 Design for a level of an adventure game set in the Doctor Who universe
 
-<h4> <a href="https://github.com/Idkwnisu/ElfVillageAR">RGTP</a></h4>
+<h4> <a href="https://github.com/Idkwnisu/ElfVillageAR">RTGP</a></h4>
 <img src="./Screenshots/RTGP.png" style="width:192px; height:192px" title="RGTP" alt="Screenshot of marching cubes">
 Collection of OpenGL code and shaders. It contains: 
 <ul>
@@ -46,6 +46,7 @@ Collection of OpenGL code and shaders. It contains:
 </ul>
 
 <h4> <a href="https://github.com/Idkwnisu/LostInAaramit">Lost In Aaramit</a></h4>
+<img src="./Screenshots/Aaramit.png" style="width:192px; height:192px" title="Aaramit" alt="Screenshot of Lost in Aaramit">
 3d platform/Puzzle game about a boy and a fox lost on an alien planet
 
 
