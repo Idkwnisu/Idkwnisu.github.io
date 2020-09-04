@@ -59,9 +59,6 @@ Two unity projects with a lot of shaders and vfx tests
 <h4> <a href="https://github.com/Idkwnisu/VRArtProject">VR Art project</a></h4>
 VR art project for cardboard, made using Unity
 
-<h4> <a href="https://github.com/Idkwnisu/VRArtProject">VR Art project</a></h4>
-VR art project for cardboard, made using Unity
-
 <br><br>
 <h2> Links </h2>
 <br>
