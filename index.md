@@ -28,6 +28,7 @@ Repos containing the projects I worked on while I was studying at Unimi
 <br>
 
 <h4> <a href="https://github.com/Idkwnisu/ElfVillageAR">A Pint Sized Tale</a></h4>
+<img src="./Screenshots/Pint.jpg" style="width:192px; height:192px" title="Pint" alt="A Pint Sized Tale Screenshot"><br>
 Android augmented reality game, about helping a little elf village with various tasks
 
 
@@ -35,6 +36,7 @@ Android augmented reality game, about helping a little elf village with various 
 Design for a level of an adventure game set in the Doctor Who universe
 
 <h4> <a href="https://github.com/Idkwnisu/ElfVillageAR">RGTP</a></h4>
+<img src="./Screenshots/RGTP.png" style="width:192px; height:192px" title="RGTP" alt="Screenshot of marching cubes">
 Collection of OpenGL code and shaders. It contains: 
 <ul>
   <li> Ray Tracing in glsl</li>
