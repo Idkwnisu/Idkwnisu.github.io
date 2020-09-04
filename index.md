@@ -10,9 +10,11 @@ Platform mobile game, made with Unity
 Current project, chill game about picking mushrooms
 
 <h4> <a href="https://github.com/Idkwnisu/LightDarkGame">Dreamlight</a></h4>
+ <img src="./Screenshots/Dark.png" style="width:192px; height:192px" title="Dark" alt="Dreamlight Screenshot"><br>
 Platform game developed during GGJ19
 
 <h4> <a href="https://github.com/EricaStella93/GGJ2020">Repair-Clan</a></h4>
+ <img src="./Screenshots/Clan.png" style="width:192px; height:192px" title="Clan" alt="Repair-clan Screenshot"><br>
 Two player typing game developed during GGJ20
 
 <hr>
