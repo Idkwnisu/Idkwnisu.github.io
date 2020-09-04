@@ -6,6 +6,7 @@ These are the git repos that cointains the personal game project I've done or I 
 Platform mobile game, made with Unity
 
 <h4> <a href="https://github.com/Idkwnisu/JumpHood">Mushroom game</a></h4>
+ <img src="./Screenshots/Mushroom.jpg" style="width:192px; height:192px" title="Mushroom" alt="Mushroom Game Screenshot"><br>
 Current project, chill game about picking mushrooms
 
 <h4> <a href="https://github.com/Idkwnisu/LightDarkGame">Dreamlight</a></h4>
