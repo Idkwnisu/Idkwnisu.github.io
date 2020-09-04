@@ -2,7 +2,8 @@
 <br>
 These are the git repos that cointains the personal game project I've done or I am currently doing 
 <h4> <a href="https://github.com/Idkwnisu/JumpHood">The Jumping Hood</a></h4>
-Platform mobile game, made with Unity <img src="./Screenshots/Hood.jpg" style="width:64px; height:64px" title="Hood" alt="The Jumping Hood Screenshot">
+ <img src="./Screenshots/Hood.jpg" style="width:256px; height:256px" title="Hood" alt="The Jumping Hood Screenshot">
+Platform mobile game, made with Unity
 
 <h4> <a href="https://github.com/Idkwnisu/JumpHood">Mushroom game</a></h4>
 Current project, chill game about picking mushrooms
