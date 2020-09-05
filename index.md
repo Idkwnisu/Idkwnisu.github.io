@@ -1,3 +1,15 @@
+<style>
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: yellow;
+  padding: 50px;
+  font-size: 20px;
+}
+</style>
+<div class="sticky">Sticky test</div>
+
 <h2> My Games </h2>
 <br>
 These are the git repos that cointains the personal game project I've done or I am currently doing 
