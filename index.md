@@ -37,15 +37,21 @@ These are the git repos that cointains the personal game project I've done or I 
 Repos containing the projects I worked on while I was studying at Unimi
 
 <br>
-
+<table> 
+  <tr>
+    <td>
 <h4> <a href="https://github.com/Idkwnisu/ElfVillageAR">A Pint Sized Tale</a></h4>
 <img src="./Screenshots/Pint.jpg" style="width:192px; height:192px" title="Pint" alt="A Pint Sized Tale Screenshot"><br>
 Android augmented reality game, about helping a little elf village with various tasks
-
+</td>
+    <td>
 
 <h4> <a href="https://github.com/obiciunict/GLD">GLD</a></h4>
 Design for a level of an adventure game set in the Doctor Who universe
-
+</td>
+</tr>
+<tr>
+<td>
 <h4> <a href="https://github.com/Idkwnisu/ElfVillageAR">RTGP</a></h4>
 <img src="./Screenshots/RTGP.Png" style="width:192px; height:192px" title="RGTP" alt="Screenshot of marching cubes"><br>
 Collection of OpenGL code and shaders. It contains: 
@@ -55,12 +61,15 @@ Collection of OpenGL code and shaders. It contains:
   <li> Marching Cubes in OpenGL</li>
   <li> Non realistic rendering shaders and OpenGL code (Cel shading and Cross Hatch shading) </li>
 </ul>
-
+  </td>
+  <td>
 <h4> <a href="https://github.com/Idkwnisu/LostInAaramit">Lost In Aaramit</a></h4>
 <img src="./Screenshots/Aaramit.png" style="width:192px; height:192px" title="Aaramit" alt="Screenshot of Lost in Aaramit"><br>
 3d platform/Puzzle game about a boy and a fox lost on an alien planet
 
-
+</td>
+</tr>
+</table>
 <h4> <a href="https://github.com/Idkwnisu/FuzzyStateMachineUnity">Fuzzy State Machines</a></h4>
 An implementation of fuzzy state machines in Unity
 
