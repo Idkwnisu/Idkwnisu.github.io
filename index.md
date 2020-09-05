@@ -1,33 +1,33 @@
-<style>
-div.sticky {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 120px;
-  left: 20px;
-  
-}
-</style>
-<div class="sticky">Sticky test</div>
-
 <h2> My Games </h2>
 <br>
 These are the git repos that cointains the personal game project I've done or I am currently doing 
-<h4> <a href="https://github.com/Idkwnisu/JumpHood">The Jumping Hood</a></h4>
- <img src="./Screenshots/Hood.jpg" style="width:192px; height:192px" title="Hood" alt="The Jumping Hood Screenshot"><br>
-Platform mobile game, made with Unity
 
-<h4> <a href="https://github.com/Idkwnisu/JumpHood">Mushroom game</a></h4>
- <img src="./Screenshots/Mushroom.jpg" style="width:192px; height:192px" title="Mushroom" alt="Mushroom Game Screenshot"><br>
-Current project, chill game about picking mushrooms
-
-<h4> <a href="https://github.com/Idkwnisu/LightDarkGame">Dreamlight</a></h4>
- <img src="./Screenshots/Dark.png" style="width:192px; height:192px" title="Dark" alt="Dreamlight Screenshot"><br>
-Platform game developed during GGJ19
-
-<h4> <a href="https://github.com/EricaStella93/GGJ2020">Repair-Clan</a></h4>
- <img src="./Screenshots/Clan.png" style="width:192px; height:192px" title="Clan" alt="Repair-clan Screenshot"><br>
-Two player typing game developed during GGJ20
-
+<table> 
+  <tr>
+    <td>
+      <h4> <a href="https://github.com/Idkwnisu/JumpHood">The Jumping Hood</a></h4>
+       <img src="./Screenshots/Hood.jpg" style="width:192px; height:192px" title="Hood" alt="The Jumping Hood Screenshot"><br>
+      Platform mobile game, made with Unity
+    </td>
+    <td>
+      <h4> <a href="https://github.com/Idkwnisu/JumpHood">Mushroom game</a></h4>
+       <img src="./Screenshots/Mushroom.jpg" style="width:192px; height:192px" title="Mushroom" alt="Mushroom Game Screenshot"><br>
+      Current project, chill game about picking mushrooms
+    </td>
+  </tr>
+  <tr>
+  <td>
+    <h4> <a href="https://github.com/Idkwnisu/LightDarkGame">Dreamlight</a></h4>
+     <img src="./Screenshots/Dark.png" style="width:192px; height:192px" title="Dark" alt="Dreamlight Screenshot"><br>
+    Platform game developed during GGJ19
+  </td>
+  <td>
+    <h4> <a href="https://github.com/EricaStella93/GGJ2020">Repair-Clan</a></h4>
+     <img src="./Screenshots/Clan.png" style="width:192px; height:192px" title="Clan" alt="Repair-clan Screenshot"><br>
+    Two player typing game developed during GGJ20
+  </td>
+ </tr>
+</table>
 <hr>
 
 <br><br><br>
