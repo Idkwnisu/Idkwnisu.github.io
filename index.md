@@ -1,3 +1,8 @@
+<h1> About me </h1>
+I am a passionate game developer and an avid learner. Studied programming since high school and I've always been interested in game design. I have a bachelor degree in computer science engineering and a master degree in computer science with a focus on game design and developing. In the last few years I've become interested in shader programmind and vfx art too, as I find it a fascinating way to combine programming skills and visual arts. Currently open for a position.
+
+<button><a href="cvs/Cv-design.pdf" download>Game design CV</a></button>
+
 <h2> My Games </h2>
 <br>
 These are the git repos that cointains the personal game project I've done or I am currently doing 
