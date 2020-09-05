@@ -2,10 +2,9 @@
 div.sticky {
   position: -webkit-sticky;
   position: sticky;
-  top: 0;
-  background-color: yellow;
-  padding: 50px;
-  font-size: 20px;
+  top: 120px;
+  left: 20px;
+  
 }
 </style>
 <div class="sticky">Sticky test</div>
