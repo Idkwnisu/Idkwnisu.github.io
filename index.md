@@ -1,5 +1,3 @@
-<p class = "header> About me </p>
-
 <h2> My Games </h2>
 <br>
 These are the git repos that cointains the personal game project I've done or I am currently doing 
