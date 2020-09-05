@@ -1,3 +1,5 @@
+<p class = "header> About me </p>
+
 <h2> My Games </h2>
 <br>
 These are the git repos that cointains the personal game project I've done or I am currently doing 
@@ -48,6 +50,9 @@ Android augmented reality game, about helping a little elf village with various 
 
 <h4> <a href="https://github.com/obiciunict/GLD">GLD</a></h4>
 Design for a level of an adventure game set in the Doctor Who universe
+<br>
+<h4> <a href="https://github.com/Idkwnisu/FuzzyStateMachineUnity">Fuzzy State Machines</a></h4>
+An implementation of fuzzy state machines in Unity
 </td>
 </tr>
 <tr>
@@ -70,8 +75,7 @@ Collection of OpenGL code and shaders. It contains:
 </td>
 </tr>
 </table>
-<h4> <a href="https://github.com/Idkwnisu/FuzzyStateMachineUnity">Fuzzy State Machines</a></h4>
-An implementation of fuzzy state machines in Unity
+
 
 <br><br><br>
 
