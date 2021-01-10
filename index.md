@@ -114,3 +114,7 @@ Two unity projects with a lot of shaders and vfx tests
 <h4> <a href="https://github.com/Idkwnisu/VRArtProject">VR Art project</a></h4>
 VR art project for cardboard, made using Unity
 
+<h2> VFX Reel </h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zSZRQwMLFxM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
